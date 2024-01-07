@@ -65,6 +65,10 @@ body {
     margin: 20px;
 }
 
+#banner {
+    padding-top: 20px;
+}
+
 #banner a {
     color: #FFF;
     text-decoration: none;
